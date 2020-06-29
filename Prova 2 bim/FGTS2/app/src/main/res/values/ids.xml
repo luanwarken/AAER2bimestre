@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="plaintTextCPFdoFavorecido" type="id" />
+    <item name="plainTextDatadoNascimento" type="id" />
+    <item name="textDatadoPagamento" type="id" />
+</resources>

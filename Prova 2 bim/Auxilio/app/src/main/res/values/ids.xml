@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="plainTextRendaMensal" type="id" />
+    <item name="plainTextDatadoNascimento" type="id" />
+    <item name="plaintTextCPFdoFavorecido" type="id" />
+    <item name="textAuxílio" type="id" />
+    <item name="textDatadoPagamento" type="id" />
+    <item name="SaldoaRecer" type="id" />
+</resources>
